@@ -71,23 +71,29 @@ url = "mailto:prd17@pitt.edu"
   [[menu.main]]
   name = "Home"
   identifier = "home"
-  weight = 100
+  weight = 1
   url = "/"
 
   [[menu.main]]
   name = "Posts"
-  weight = 200
+  weight = 4
   identifier = "posts"
   url = "/post/"
 
   [[menu.main]]
-  name = "About"
-  weight = 300
+  name = "About Me"
+  weight = 2
   identifier = "about"
   url = "/about/"
 
   [[menu.main]]
+  name = "C.V."
+  weight = 3
+  identifier = "cv"
+  url = "/cv/"
+
+  [[menu.main]]
   name = "Contact"
-  weight = 400
+  weight = 5
   identifier = "contact"
   url = "/contact/"
