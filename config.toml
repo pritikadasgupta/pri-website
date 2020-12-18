@@ -23,7 +23,7 @@ title = "I'm Pritika Dasgupta"
 author = "Pritika Dasgupta"
 description = "Call me Pri! (she/her)"
 profilePicture = "images/avatar.png"
-keywords = ""
+keywords = "machine learning, data science, clinical informatics, gait, wearables, accelerometers, patient-generated data"
 favicon = "favicons/"
 # example ["css/custom.css"]
 customCss = []
@@ -76,7 +76,7 @@ url = "mailto:prd17@pitt.edu"
 
   [[menu.main]]
   name = "Posts"
-  weight = 4
+  weight = 6
   identifier = "posts"
   url = "/post/"
 
@@ -87,13 +87,25 @@ url = "mailto:prd17@pitt.edu"
   url = "/about/"
 
   [[menu.main]]
-  name = "C.V."
+  name = "Publications"
   weight = 3
+  identifier = "publications"
+  url = "/publications/"
+
+  [[menu.main]]
+  name = "Posters and Talks"
+  weight = 4
+  identifier = "poster and talks"
+  url = "/posters and talks/"
+
+  [[menu.main]]
+  name = "C.V."
+  weight = 5
   identifier = "cv"
   url = "/cv/"
 
   [[menu.main]]
   name = "Contact"
-  weight = 5
+  weight = 7
   identifier = "contact"
   url = "/contact/"
