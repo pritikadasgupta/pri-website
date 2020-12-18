@@ -1,25 +1,20 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "About"
+date = "2019-12-17"
+aliases = ["about-me", "about", "contact"]
+author = "Pritika Dasgupta"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
-Hugo makes use of a variety of open source projects including:
+I am a fifth year PhD candidate at the University of Pittsburgh Department of Biomedical Informatics.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+I tweet a lot about informatics and research! 
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+I love everything to do with biomedical informatics, machine learning, data visualization, and manipulating rich datasets.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+I have earned a MHI (Master of Health Informatics) and MPH (Master of Public Health) in Epidemiology with a certificate in public health genetics from University of Michigan and a Bachelor of Science in Biological Engineering from Cornell University. During my time in Ann Arbor, I have done some research with genetic datasets, HPV, cancer, and mathematical models.
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+My future will hopefully be in academia.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Apart from my intellectual pursuits, I am deeply passionate about community engagement on various public health issues, particularly issues surrounding sexual health. In my spare time, I play the violin, drink bubble tea, and go on long scenic bike rides.
